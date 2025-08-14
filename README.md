@@ -1,7 +1,7 @@
 ## Python KeyLogger .    (Please use this for testing only. )
 
 <h2>Objectives:</h2>
-Showcasing skills I am learning while using python. This project while developing a skill set, creates awarness of threat actors looking to gain information from computers. 
+Built a Python-based keylogger in a controlled lab to study how threats operate, improve malware detection skills, and strengthen cybersecurity defense strategies through hands-on practice.
 
 <h2>Tools:</h2>
 1)Python
