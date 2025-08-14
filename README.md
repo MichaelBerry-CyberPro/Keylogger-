@@ -28,7 +28,7 @@ Created code to capture and track keystrokes in a text file.
 ![image alt](https://github.com/MichaelBerry-CyberPro/Keylogger-/blob/main/text%20file%20logs.jpg?raw=true)
 
 
-To allow this code to run, you will need to allow it by your computers security system. After testing these features please remeber to reinstate the defense blocking keyloggers
+To allow this code to run, you will need to allow it by your computers' security system. After testing these features please remeber to reinstate the defense blocking keyloggers
 
 
 
